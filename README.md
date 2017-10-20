@@ -1,3 +1,7 @@
+<p align="center">
+  <a href="https://softwaremetric-database.com/dashboard/branches?branchId=64"><img src="https://softwaremetric-database.com/api/timeline/google_agera/master"/></a>
+</p>
+
 ![Agera](https://raw.githubusercontent.com/google/agera/master/doc/images/agera.png)
 
 Reactive Programming for Android
